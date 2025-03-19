@@ -1,0 +1,8 @@
+Django
+Flask
+fastapi
+psycopg2-binary
+redis
+uvicorn
+gunicorn
+python-dotenv
